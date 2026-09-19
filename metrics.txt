@@ -1,0 +1,12 @@
+Rows: 45211
+Positive-class prevalence: 11.7%
+F1 score (subscription): 0.391
+
+              precision    recall  f1-score   support
+
+          No       0.93      0.83      0.88      7985
+         Yes       0.30      0.56      0.39      1058
+
+    accuracy                           0.80      9043
+   macro avg       0.62      0.69      0.63      9043
+weighted avg       0.86      0.80      0.82      9043
